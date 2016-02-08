@@ -1,0 +1,17 @@
+html, body {
+  height:100%;
+}
+
+.pokedex {
+  margin-top:2%;
+}
+
+#currentlySelected {
+  background-color:red;
+  height:500px;
+}
+
+.list {
+  background-color:green;
+  height:500px;
+}
